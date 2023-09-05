@@ -8,7 +8,7 @@
 - Tribus: Tribu de Algoritmos, Tribu de Proyectos, Tribu de Modelos, Tribu de Herramientas e Impacto.
 
 # Integrantes:
-<center><a href="https://ibb.co/NSsNXdm"><img src="https://i.ibb.co/6Bmt271/photo-2023-07-08-13-50-26.jpg" alt="photo-2023-07-08-13-50-26" border="0"></a></center>
+<img src="https://i.ibb.co/6Bmt271/photo-2023-07-08-13-50-26.jpg" alt="photo-2023-07-08-13-50-26" style="display: block; margin-left: auto; margin-right: auto;">
 
 # Contacto:
 - circulodeiaulima@gmail.com
