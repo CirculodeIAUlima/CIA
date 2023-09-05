@@ -8,4 +8,4 @@
 - Tribus: Tribu de Algoritmos, Tribu de Proyectos, Tribu de Modelos, Tribu de Herramientas e Impacto.
 
 # Integrantes:
-![alt text](https://ibb.co/NSsNXdm)
+<a href="https://ibb.co/NSsNXdm"><img src="https://i.ibb.co/6Bmt271/photo-2023-07-08-13-50-26.jpg" alt="photo-2023-07-08-13-50-26" border="0"></a>
