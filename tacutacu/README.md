@@ -1,2 +1,0 @@
-# tacutacu
-Tribu TacuTacu

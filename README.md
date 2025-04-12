@@ -13,3 +13,4 @@
 # Contacto:
 - circulodeiaulima@gmail.com
 
+![AI for Everyone](Contenido_Adicional/AI_FOR_EVERYONE_1.jpg)
